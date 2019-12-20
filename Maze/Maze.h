@@ -12,8 +12,8 @@ using namespace std;
 
 #pragma warning (disable: 4996)
 
-const int MAX_HIGHT = 25;
-const int MAX_WIDTH = 80;
+const int MAX_HIGHT = 99;
+const int MAX_WIDTH = 99;
 
 class Maze
 {
