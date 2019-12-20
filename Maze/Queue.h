@@ -7,7 +7,7 @@ using namespace std;
 
 #pragma warning (disable: 4996)
 
-const int MAX_SIZE = 2050;
+const int MAX_SIZE = 20050;
 
 
 class Queue
